@@ -1,4 +1,4 @@
-## Oi eu sou o Alexandre Avila, sou programador de programas,aplicativos e embarcados!
+## Oi eu sou o Alexandre Avila, sou programador,aplicativos e embarcados!
 <div align="center">
   <a href="https://github.com/AlexandreAvila06/AlexandreAvila06.git">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreAvila06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
